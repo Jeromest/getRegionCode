@@ -2,6 +2,8 @@
 
 python版本: 3.12.4
 
+数据来源：https://xingzhengquhua.bmcx.com/
+
 输出示例：
 ```shell
 "D:\Program Files\Python312\python.exe" E:\workspace\PycharmProjects\getRegion\main.py 
